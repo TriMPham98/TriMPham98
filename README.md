@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://instagram.com/trizus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trizus" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/trimpham98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="trimpham98" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/trizus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trizus" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
