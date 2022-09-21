@@ -4,8 +4,6 @@
 
 <h3 align="center">I'm a student of creativity and craftsmanship.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=trimpham98&label=Profile%20views&color=0e75b6&style=flat" alt="trimpham98" /> </p>
-
 <p align="center">- 🔭 I’m currently working on The Odin Project Open Source Course </p>
 
 <p align="center">- 🌱 I’m currently learning JavaScript and C++ fundamentals </p>
@@ -13,6 +11,8 @@
 <p align="center">- 📫 How to reach me: trimpham98@gmail.com </p>
 
 <p align="center">- 🎸 Fun fact: I can play 14 instruments! </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=trimpham98&label=Profile%20views&color=0e75b6&style=flat" alt="trimpham98" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
