@@ -12,7 +12,7 @@
 
 <p align="center">- 📫 How to reach me: trimpham98@gmail.com </p>
 
-<p align="center">- ⚡ Fun fact I can play 13 instruments! </p>
+<p align="center">- ⚡ Fun fact: I can play 13 instruments! </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
