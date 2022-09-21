@@ -17,6 +17,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/trizus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trizus" height="30" width="40" /></a>
+<a href="https://discord.gg/Tri#9159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tri#9159" height="30" width="40" /></a>
 <a href="https://codepen.io/trimpham98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="trimpham98" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/trimpham98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="trimpham98" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/trizus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trizus" height="30" width="40" /></a>
