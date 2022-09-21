@@ -14,7 +14,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trimpham98&label=Profile%20views&color=0e75b6&style=flat" alt="trimpham98" /> </p>
 
-<h3 align="center">Let's link up:</h3>
+<h3 align="center">Let's Link Up:</h3>
 <p align="center">
 <a href="https://instagram.com/trizus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trizus" height="30" width="40" /></a>
 <a href="https://discord.gg/Tri#9159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tri#9159" height="30" width="40" /></a>
