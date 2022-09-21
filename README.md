@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tri</h1>
+<h1 id="header" align="center">
+  Howdy, I'm Tri! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+
 <h3 align="center">I'm a student of creativity and craftsmanship!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trimpham98&label=Profile%20views&color=0e75b6&style=flat" alt="trimpham98" /> </p>
