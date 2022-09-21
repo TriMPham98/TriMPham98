@@ -14,13 +14,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trimpham98&label=Profile%20views&color=0e75b6&style=flat" alt="trimpham98" /> </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Let's link up:</h3>
 <p align="center">
 <a href="https://instagram.com/trizus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trizus" height="30" width="40" /></a>
 <a href="https://discord.gg/Tri#9159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tri#9159" height="30" width="40" /></a>
-<a href="https://codepen.io/trimpham98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="trimpham98" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/trimpham98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="trimpham98" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/trizus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trizus" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tri-pham-b15724146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tri-pham-b15724146/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
