@@ -2,17 +2,17 @@
   Howdy, I'm Tri! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-<h3 align="center">I'm a student of creativity and craftsmanship!</h3>
+<h3 align="center">I'm a student of creativity and craftsmanship.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trimpham98&label=Profile%20views&color=0e75b6&style=flat" alt="trimpham98" /> </p>
 
-- 🔭 I’m currently working on **The Odin Project Open Source Course**
+<p align="center">- 🔭 I’m currently working on The Odin Project Open Source Course </p>
 
-- 🌱 I’m currently learning **JavaScript and C++ fundamentals**
+<p align="center">- 🌱 I’m currently learning JavaScript and C++ fundamentals </p>
 
-- 📫 How to reach me **trimpham98@gmail.com**
+<p align="center">- 📫 How to reach me: trimpham98@gmail.com </p>
 
-- ⚡ Fun fact **I can play 13 instruments!**
+<p align="center">- ⚡ Fun fact I can play 13 instruments! </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
