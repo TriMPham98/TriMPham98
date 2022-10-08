@@ -2,7 +2,7 @@
   Howdy, I'm Tri! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
-<h3 align="center">I'm a student of creativity and craftsmanship.</h3>
+<h3 align="center">I'm a student of creativity and craftsmanship. Let's build something together!</h3>
 
 <p align="center">- 🔭 I’m currently working on The Odin Project Open Source Course </p>
 
