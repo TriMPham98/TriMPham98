@@ -1,6 +1,15 @@
 <h1 id="header" align="center">
   Howdy, I'm Tri! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1> <!--TODO: Add a typing gif header-->
+</h1> 
+
+<!--TODO: Add a typing gif header-->
+<!--
+How to make this gif ?
+I made my with https://codesandbox.io/s/github-profile-2ijk7
+Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
+This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
+Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
+-->
 
 <h3 align="center">I'm a student of creativity and craftsmanship. Let's build something together!</h3>
 
