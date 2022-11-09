@@ -1,6 +1,6 @@
 <h1 id="header" align="center">
-  Howdy, I'm Tri! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1> 
+  Howdy, I'm Tri! <!-- Waving hand gif: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+</h1>
 
 <!--TODO: Add a typing gif header-->
 <!--
