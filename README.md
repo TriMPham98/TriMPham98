@@ -14,6 +14,8 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 <h3 align="center">I'm a student of creativity and craftsmanship. Let's build something together!</h3>
 
+<br>
+
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 <p align="center">- 🔭 I’m currently working on The Odin Project Open Source Course </p>
@@ -25,7 +27,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <p align="center">- 🎸 Fun fact: I can play 14 instruments! </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trimpham98&label=Profile%20views&color=0e75b6&style=flat" alt="trimpham98" /> </p>
-
 
 <h3 align="center">Let's Link Up:</h3>
 <p align="center">
