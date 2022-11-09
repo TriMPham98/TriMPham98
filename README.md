@@ -1,6 +1,12 @@
+![Screen Recording 2022-11-09 at 12 56 08 PM gif crdownload](https://user-images.githubusercontent.com/70353051/200941449-304cc4dd-3a17-4129-9296-b4306913a0c1.gif)
+
+<h1></h1>
+
+<!--
 <h1 id="header" align="center">
-  Howdy, I'm Tri! <!-- Waving hand gif: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->  
+  Howdy, I'm Tri! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 </h1>
+-->
 
 <!--TODO: Add a typing gif header-->
 <!--
@@ -12,8 +18,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 -->
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-
-<h3 align="center">I'm a student of creativity and craftsmanship. Let's build something together!</h3>
 
 <br>
 
