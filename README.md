@@ -8,7 +8,6 @@
 </h1>
 -->
 
-<!--TODO: Add a typing gif header-->
 <!--
 How to make this gif ?
 I made my with https://codesandbox.io/s/github-profile-2ijk7
@@ -49,6 +48,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <!-- TypeScript -->
  </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trimpham98&show_icons=true&theme=dark&locale=en&layout=compact" alt="trimpham98" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trimpham98&show_icons=true&theme=dark&locale=en&layout=compact" alt="trimpham98" />
+<img align="center" width="52%" src="https://github-readme-streak-stats.herokuapp.com/?user=trimpham98&theme=highcontrast" alt="trimpham98" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trimpham98&theme=highcontrast" alt="trimpham98" /></p>
