@@ -18,6 +18,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 <!-- <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"> -->
 
+<h3>
 <p align="center">- 🔭 I’m currently working on The Odin Project Open Source Course </p>
 
 <p align="center">- 🌱 I’m currently learning JavaScript and C++ fundamentals </p>
@@ -25,17 +26,18 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <p align="center">- 📫 How to reach me: trimpham98@gmail.com </p>
 
 <p align="center">- 🎸 Fun fact: I can play 14 instruments! </p>
+</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trimpham98&label=Profile%20views&color=0e75b6&style=flat" alt="trimpham98" /> </p>
 
-<h3 align="center">Let's Link Up:</h3>
+<h2 align="center">Let's Link Up:</h2>
 <p align="center">
 <a href="https://instagram.com/trizus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trizus" height="30" width="40" /></a>
 <a href="https://discord.gg/Tri#9159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tri#9159" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tri-pham-b15724146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tri-pham-b15724146?original_referer=https%3A%2F%2Fwww.google.com%2F" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <!-- C++ -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <!-- Python -->
