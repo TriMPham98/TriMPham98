@@ -21,7 +21,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <h4>
 <p align="center">- 🔭 I’m currently working on The Odin Project Open Source Course </p>
 
-<p align="center">- 🌱 I’m currently learning JavaScript and C++ fundamentals </p>
+<p align="center">- 🌱 I’m currently learning JS and C++ data structures and algorithms </p>
 
 <p align="center">- 📫 How to reach me: trimpham98@gmail.com </p>
 
