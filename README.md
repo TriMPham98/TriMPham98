@@ -25,7 +25,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 <p align="center">- 📫 How to reach me: trimpham98@gmail.com </p>
 
-<p align="center">- 🎸 Fun fact: I can play 18 instruments! </p>
+<p align="center">- 🎸 Fun fact: I can play 19 instruments! </p>
 </h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trimpham98&label=Profile%20views&color=0e75b6&style=flat" alt="trimpham98" /> </p>
