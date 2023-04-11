@@ -19,7 +19,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <!-- <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"> -->
 
 <h4>
-<p align="center">- 🔭 I’m currently working on a Modern Parallax Website</p>
+<p align="center">- 🔭 I’m currently working on an .mp3 Audio Visualizer</p>
 
 <p align="center">- 🌱 I’m currently learning JS and C++ data structures and algorithms </p>
 
@@ -58,6 +58,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 </h2>
 
 <p align="center"> <!-- I used binary search to find the perfect pixel count for height-->
-  <!-- <img height="228" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimpham98&langs_count=5&theme=vision-friendly-dark" alt="trimpham98" /> -->
+  <img height="228" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimpham98&langs_count=5&theme=vision-friendly-dark" alt="trimpham98" />
   <img height="228" src="https://github-readme-streak-stats.herokuapp.com/?user=trimpham98&theme=highcontrast" alt="trimpham98" /> 
 </p>
