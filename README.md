@@ -21,7 +21,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <h4>
 <p align="center">- 🔭 I’m currently working on a Sorting Algorithm Visualizer</p>
 
-<p align="center">- 🌱 I’m currently learning Java for CS 401 Software Engineering </p>
+<p align="center">- 🌱 I’m currently learning Bruno Simon's Three.js Journey to Build 3D Websites</p>
 
 <p align="center">- 📫 How to reach me: trimpham98@gmail.com </p>
 
