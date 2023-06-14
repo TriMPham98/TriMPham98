@@ -18,19 +18,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 <!-- <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"> -->
 
-<h4>
-<p align="center">- 🔭 I’m currently working on a Sorting Algorithm Visualizer</p>
-
-<p align="center">- 🌱 I’m currently learning Bruno Simon's Three.js Journey to Build 3D Websites</p>
-
-<p align="center">- 📫 How to reach me: trimpham98@gmail.com </p>
-
-<p align="center">- 🎸 Fun fact: I can play 19 instruments! </p>
-</h4>
-
-<p align="center"><img src="https://github.com/TriMPham98/TriMPham98/assets/70353051/264cd5af-23da-40c9-8ebf-81547ee72783" height=69</p>
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trimpham98&label=Profile%20views&color=0e75b6&style=flat" alt="trimpham98" /> </p>
 
 <h2 align="center">Let's Link Up:
@@ -64,3 +51,15 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <img height="171" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimpham98&langs_count=5&theme=vision-friendly-dark" alt="trimpham98" />
   <img height="171" src="https://github-readme-streak-stats.herokuapp.com/?user=trimpham98&theme=highcontrast" alt="trimpham98" /> 
 </p>
+
+<h4>
+<p align="center">- 🔭 I’m currently working on a Sorting Algorithm Visualizer</p>
+
+<p align="center">- 🌱 I’m currently learning Bruno Simon's Three.js Journey to Build 3D Websites</p>
+
+<p align="center">- 📫 How to reach me: trimpham98@gmail.com </p>
+
+<p align="center">- 🎸 Fun fact: I can play 19 instruments! </p>
+</h4>
+
+<p align="center"><img src="https://github.com/TriMPham98/TriMPham98/assets/70353051/264cd5af-23da-40c9-8ebf-81547ee72783" height=69</p>
