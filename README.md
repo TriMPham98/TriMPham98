@@ -62,4 +62,4 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <p align="center">- 🎸 Fun fact: I can play 19 instruments! </p>
 </h4>
 
-<p align="center"><img src="https://github.com/TriMPham98/TriMPham98/assets/70353051/264cd5af-23da-40c9-8ebf-81547ee72783" height=69</p>
+<!-- <p align="center"><img src="https://github.com/TriMPham98/TriMPham98/assets/70353051/264cd5af-23da-40c9-8ebf-81547ee72783" height=69></p> -->
