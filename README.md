@@ -48,8 +48,8 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 </h2>
 
 <p align="center"> <!-- I used binary search to find the perfect pixel count for height-->
-  <img height="171" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimpham98&langs_count=5&theme=vision-friendly-dark" alt="trimpham98" />
-  <img height="171" src="https://github-readme-streak-stats.herokuapp.com/?user=trimpham98&theme=highcontrast" alt="trimpham98" /> 
+  <!-- <img height="258" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimpham98&langs_count=5&theme=vision-friendly-dark" alt="trimpham98" /> -->
+  <img height="258" src="https://github-readme-streak-stats.herokuapp.com/?user=trimpham98&theme=highcontrast" alt="trimpham98" /> 
 </p>
 
 <h4>
