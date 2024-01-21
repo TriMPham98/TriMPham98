@@ -2,12 +2,6 @@
 
 <h1></h1>
 
-<!-- 
-<h1 id="header" align="center">
-  Howdy, I'm Tri! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1> -->
-
-
 <!--
 I made this with https://codesandbox.io/s/github-profile-2ijk7
 Then I recorded my screen to gif on Mac with Quicktime and saved the result to [assets/github.mov](assets/github.mov)
