@@ -15,7 +15,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <h2 align="center">Let's Link Up:
 <br></br>
 <p align="center">
-<a href="https://www.linkedin.com/in/tri-pham-b15724146/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tri-pham-b15724146?original_referer=https%3A%2F%2Fwww.google.com%2F" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pham-tri-minh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tri-pham-b15724146?original_referer=https%3A%2F%2Fwww.google.com%2F" height="30" width="40" /></a>
 <a href="https://discord.gg/Tri#9159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tri#9159" height="30" width="40" /></a>
 <a href="https://instagram.com/trizus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trizus" height="30" width="40" /></a>
 <a href="https://twitter.com/trimpham98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trimpham98" height="30" width="40" /></a>
