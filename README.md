@@ -9,7 +9,6 @@ This [gist](https://gist.github.com/tskaggs/6394639) helped me to create a dedic
 Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
 -->
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=trimpham98&label=Profile%20views&color=0e75b6&style=flat" alt="trimpham98" /> </p>
 
 <h2 align="center">Let's Link Up:
@@ -20,7 +19,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <a href="https://instagram.com/trizus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trizus" height="30" width="40" /></a>
 <a href="https://twitter.com/trimpham98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trimpham98" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCsC8C9N7MfDUaoUipMyscTw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsc8c9n7mfduaouipmysctw" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/trimpham98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="trimpham98" height="30" width="40" /></a>
 </p>
 </h2>
 
