@@ -45,11 +45,11 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <h4>
 <p align="center">- 🔭 I’m currently working on a 3D Sorting Algorithm Visualizer</p>
 
-<p align="center">- 🌱 I’m currently learning React</p>
+<p align="center">- 🌱 I’m currently learning Next.js</p>
 
 <p align="center">- 📫 How to reach me: trimpham98@gmail.com </p>
 
-<p align="center">- 🎸 Fun fact: I can play 20 musical instruments! </p>
+<p align="center">- 🎸 Fun fact: I can play 21 musical instruments! </p>
 </h4>
 
 <!-- <p align="center"><img src="https://github.com/TriMPham98/TriMPham98/assets/70353051/264cd5af-23da-40c9-8ebf-81547ee72783" height=69></p> -->
