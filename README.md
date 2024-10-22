@@ -43,7 +43,7 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 </p>
 
 <h4>
-<p align="center">- 🔭 I’m currently working on a 3D Sorting Algorithm Visualizer</p>
+<p align="center">- 🔭 I’m currently working on building a smart mirror</p>
 
 <p align="center">- 🌱 I’m currently learning Next.js</p>
 
