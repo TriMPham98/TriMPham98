@@ -38,8 +38,8 @@
 </p>
 
 <h4>
-<p align="center">- 🔭 I'm currently working on building a smart mirror</p>
-<p align="center">- 🌱 I'm currently learning OpenCV</p>
+<p align="center">- 🔭 I'm currently working on building a Steinway MIDI Blender model</p>
+<p align="center">- 🌱 I'm currently learning Unreal Engine</p>
 <p align="center">- 📫 How to reach me: trimpham98@gmail.com</p>
 <p align="center">- 🎸 Fun fact: I can play 21 musical instruments!</p>
 </h4>
