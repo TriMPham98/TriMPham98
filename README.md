@@ -37,8 +37,8 @@
 </p>
 
 <p align="center">
-  <img height="218" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trimpham98&langs_count=5&theme=vision-friendly-dark" alt="trimpham98" />
-  <img height="218" src="https://github-readme-streak-stats.herokuapp.com/?user=trimpham98&theme=highcontrast" alt="trimpham98" />
+  <img height="218" src="./profile/top-langs.svg" alt="Most used languages" />
+  <img height="218" src="./profile/streak.svg" alt="GitHub streak" />
 </p>
 
 <h4>
