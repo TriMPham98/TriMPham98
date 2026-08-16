@@ -36,11 +36,6 @@
 </tr></table>
 </p>
 
-<p align="center">
-  <img height="218" src="./profile/top-langs.svg" alt="Most used languages" />
-  <img height="218" src="./profile/streak.svg" alt="GitHub streak" />
-</p>
-
 <h4>
 <p align="center">- 🔭 I'm currently working on a MIDI-controlled Steinway grand piano in Blender</p>
 <p align="center">- 🌱 I design 3D interfaces that connect humans and machines</p>
